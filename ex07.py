@@ -1,9 +1,3 @@
-"""
-EX.NO: 7  BUILD NAIVE BAYES MODELS
-AIM: To write a program to build naive Bayes models.
-
-Requires: pip install scikit-learn
-"""
 
 from sklearn.naive_bayes import GaussianNB
 from sklearn.model_selection import train_test_split
