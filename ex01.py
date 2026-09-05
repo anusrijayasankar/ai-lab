@@ -1,8 +1,3 @@
-"""
-EX.NO: 1  IMPLEMENT BASIC SEARCH STRATEGIES FOR SELECTED AI APPLICATION
-AIM: To write a simple program to implement basic search strategies (binary search).
-"""
-
 people = [
     {"name": "Alice", "age": 25, "city": "New York"},
     {"name": "Bob", "age": 30, "city": "Los Angeles"},
