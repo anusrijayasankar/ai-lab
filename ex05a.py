@@ -1,9 +1,4 @@
-"""
-EX.NO: 5(a)  IMPLEMENT PROPOSITIONAL LOGIC INFERENCE FOR AI TASKS
-AIM: To implement propositional logic inference for AI tasks using resolution.
-"""
-
-
+import itertools
 class PropositionalLogic:
     def __init__(self):
         self.clauses = []
