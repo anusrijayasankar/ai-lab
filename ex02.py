@@ -1,11 +1,4 @@
-"""
-EX.NO: 2  IMPLEMENT LOCAL SEARCH ALGORITHM FOR CSP
-AIM: To write a simple program to implement local search for CSP (N-Queens, min-conflicts).
-"""
-
 import random
-
-
 class NQueensCSP:
     def __init__(self, N):
         self.N = N
