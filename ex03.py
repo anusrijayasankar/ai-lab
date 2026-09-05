@@ -1,9 +1,3 @@
-"""
-EX.NO: 3  IMPLEMENT RESOLUTION BASED FIRST ORDER LOGIC INFERENCES FOR AI TASK
-AIM: To implement the python program for resolution based first order logic inference.
-"""
-
-
 def unify(x, y, subst=None):
     if subst is None:
         subst = {}
