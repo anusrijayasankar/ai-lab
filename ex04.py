@@ -1,8 +1,3 @@
-"""
-EX.NO: 4  IMPLEMENT MINIMAX ALGORITHM FOR GAME PLAYING (ALPHA-BETA PRUNING)
-AIM: To implement minimax algorithm for game playing.
-"""
-
 import math
 
 PLAYER_X = 'X'
