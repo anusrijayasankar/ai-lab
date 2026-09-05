@@ -1,9 +1,3 @@
-"""
-EX.NO: 5(b)  IMPLEMENT PROPOSITIONAL MODEL CHECKING ALGORITHM
-AIM: To implement propositional model checking algorithm (DPLL).
-"""
-
-
 def find_unit_clause(clauses):
     """Finds a unit clause in the list of clauses."""
     for clause in clauses:
