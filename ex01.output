@@ -1,0 +1,2 @@
+Enter the name that you wanna search: Alice
+Found Alice: {'name': 'Alice', 'age': 25, 'city': 'New York'}
