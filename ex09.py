@@ -1,12 +1,3 @@
-"""
-EX.NO: 9  IMPLEMENT OF HIDDEN MARKOV MODELS
-AIM: To write a program to implement hidden Markov Models.
-
-Requires: pip install hmmlearn numpy
-Note: recent hmmlearn versions renamed MultinomialHMM to CategoricalHMM
-for this single-sequence-of-categorical-observations use case.
-"""
-
 import numpy as np
 from hmmlearn import hmm
 
